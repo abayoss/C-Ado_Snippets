@@ -1,0 +1,24 @@
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\bin\Debug\resumeADO.exe.config
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\bin\Debug\resumeADO.exe
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\bin\Debug\resumeADO.pdb
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.csprojResolveAssemblyReference.cache
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Form1.resources
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Form2.resources
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.navigation.resources
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Properties.Resources.resources
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.csproj.GenerateResource.Cache
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.exe
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.pdb
+C:\Users\AbaYosS\Desktop\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Deconnecter.deco.resources
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\bin\Debug\resumeADO.exe.config
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.exe
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.pdb
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\bin\Debug\resumeADO.exe
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\bin\Debug\resumeADO.pdb
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.csprojResolveAssemblyReference.cache
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Deconnecter.deco.resources
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Form1.resources
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Form2.resources
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.navigation.resources
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.Properties.Resources.resources
+C:\Users\AbaYosS\Desktop\EFF things\eff prepa\c#\ado tps\resumeADO\resumeADO\obj\Debug\resumeADO.csproj.GenerateResource.Cache

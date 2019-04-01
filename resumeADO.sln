@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resumeADO", "resumeADO\resumeADO.csproj", "{757EB37D-3B66-4794-9B53-A60A052B2A36}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{5F0722E0-1950-455B-BB68-4E56EFCD1559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757EB37D-3B66-4794-9B53-A60A052B2A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757EB37D-3B66-4794-9B53-A60A052B2A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757EB37D-3B66-4794-9B53-A60A052B2A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757EB37D-3B66-4794-9B53-A60A052B2A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0722E0-1950-455B-BB68-4E56EFCD1559}.Debug|Any CPU.ActiveCfg = Debug
+		{5F0722E0-1950-455B-BB68-4E56EFCD1559}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
